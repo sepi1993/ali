@@ -11,8 +11,8 @@ lerna-debug.log*//
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 # nothing
 # Runtime data**
-pids
-*.pid/sep
+# pids/best
+*.pid/sep//
 *.seed
 *.pid.lock
 
