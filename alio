@@ -2,7 +2,7 @@
 logs
 *.log
 npm-debug.log*//تای
-yarn-debug.log*
+yarn-debug.log*xvxcxc
 yarn-error.log*best
 lerna-debug.log*//
 # god bless with u//
@@ -11,7 +11,7 @@ lerna-debug.log*//
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json//
 # nothing
 # Runtime data**
-# pids/best
+# pids/best>>>>.
 *.pid/sep//
 *.seed
 *.pid.lock#
