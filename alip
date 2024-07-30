@@ -72,7 +72,7 @@ jhgv
 
 # dotenv environment variables file
 .env
-.env.test
+.env.testnjk b 
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
