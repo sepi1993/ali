@@ -46,7 +46,7 @@ jspm_packages/
 /best
 # TypeScript v1 
 
-# TypeScript cache
+# TypeScript cacheasc
 *.tsbuildinfo
 
 # Optional npm cache directory
