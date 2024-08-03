@@ -68,7 +68,7 @@ vh
 *.tgz
 jhgv
 # Yarn Integrity file
-.yarn-integrity/jason
+.yarn-integrity/jasongf
 
 # dotenv environment variables file
 .env
