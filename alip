@@ -53,7 +53,7 @@ m,hgv,jhbjj
 .npm
 
 # Optional eslint cache
-.eslintcache
+.eslintcachex
 vh
 # Microbundle cache
 .rpt2_cache/
