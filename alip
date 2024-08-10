@@ -31,7 +31,7 @@ coverage
 typings/
 .grunt
 
-# Bower dependency directory (https://bower.io/)
+# Bower dependency directory (https://bower.io/)kio
 bower_components
 hui
 # node-waf configuration
