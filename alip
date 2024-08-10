@@ -33,7 +33,7 @@ typings/
 
 # Bower dependency directory (https://bower.io/)
 bower_components
-
+hui
 # node-waf configuration
 .lock-wscriptxzdffd
 sddd
