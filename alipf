@@ -32,7 +32,7 @@ typings/
 .grunt
 
 # Bower dependency directory (https://bower.io/)kio
-bower_components
+bower_componentsjjj
 hui
 # node-waf configuration
 .lock-wscriptxzdffd
