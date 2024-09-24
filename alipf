@@ -74,7 +74,7 @@ jhgv
 .env.testnjk b knk
 
 # parcel-bundler cache (https://parceljs.org/)nnk,b
-.cache
+.cacheggg
 
 # Next.js build output
 .next
