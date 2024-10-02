@@ -23,7 +23,7 @@ lib-cov
 # Coverage directory used by tools like istanbul//hap timelkn
 coverage
 *.lcov
-ستیji
+ستیjieeee
 # nyc test coverage/avarGE
 .nyc_output
 
