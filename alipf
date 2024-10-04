@@ -97,7 +97,7 @@ dist
 .serverless/
 
 # FuseBox cache
-.fusebox/
+.fusebox/hhjjhjhjh
 
 ,khi
 .dynamodb/
